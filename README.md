@@ -1,5 +1,3 @@
-# Backend Project
-
 # Technical Test
 
 ## General Objective
